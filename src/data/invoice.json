@@ -1,0 +1,1616 @@
+[
+  {
+    "id": 74,
+    "patient_id": 39,
+    "create_at": "22/03/2022",
+    "follow_up_date": "10/05/2022",
+    "follow_up_time": "14:50",
+    "heart_rate": 95,
+    "blood_pressure": 81,
+    "breathing_rate": 13,
+    "temperature": 39,
+    "symptom": "Bụng đầy hơi; ăn không tiêu; buồn nôn",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 79,
+    "patient_id": 25,
+    "create_at": "06/02/2022",
+    "follow_up_date": "10/07/2022",
+    "follow_up_time": "16:50",
+    "heart_rate": 72,
+    "blood_pressure": 80,
+    "breathing_rate": 20,
+    "temperature": 42,
+    "symptom": "Tức ngực; khó thở",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 81,
+    "patient_id": 5,
+    "create_at": "07/01/2022",
+    "follow_up_date": "15/05/2022",
+    "follow_up_time": "13:30",
+    "heart_rate": 87,
+    "blood_pressure": 199,
+    "breathing_rate": 19,
+    "temperature": 45,
+    "symptom": "Đau lưng; mỏi gối",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 82,
+    "patient_id": 27,
+    "create_at": "19/03/2022",
+    "follow_up_date": "05/06/2022",
+    "follow_up_time": "15:40",
+    "heart_rate": 100,
+    "blood_pressure": 133,
+    "breathing_rate": 12,
+    "temperature": 45,
+    "symptom": "Sốt; đau đầu",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 83,
+    "patient_id": 44,
+    "create_at": "04/03/2022",
+    "follow_up_date": "07/05/2022",
+    "follow_up_time": "13:10",
+    "heart_rate": 86,
+    "blood_pressure": 91,
+    "breathing_rate": 18,
+    "temperature": 42,
+    "symptom": "Tức ngực; khó thở",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+  {
+    "id": 84,
+    "patient_id": 41,
+    "create_at": "25/01/2022",
+    "follow_up_date": "28/06/2022",
+    "follow_up_time": "16:20",
+    "heart_rate": 80,
+    "blood_pressure": 208,
+    "breathing_rate": 20,
+    "temperature": 40,
+    "symptom": "Tức ngực; khó thở",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 87,
+    "patient_id": 32,
+    "create_at": "02/03/2022",
+    "follow_up_date": "30/06/2022",
+    "follow_up_time": "12:50",
+    "heart_rate": 87,
+    "blood_pressure": 219,
+    "breathing_rate": 13,
+    "temperature": 36,
+    "symptom": "Tức ngực; khó thở",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+  {
+    "id": 88,
+    "patient_id": 16,
+    "create_at": "22/02/2022",
+    "follow_up_date": "14/07/2022",
+    "follow_up_time": "15:30",
+    "heart_rate": 84,
+    "blood_pressure": 223,
+    "breathing_rate": 14,
+    "temperature": 38,
+    "symptom": "Đau đầu; chóng mặt",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 90,
+    "patient_id": 41,
+    "create_at": "26/02/2022",
+    "follow_up_date": "08/07/2022",
+    "follow_up_time": "12:50",
+    "heart_rate": 95,
+    "blood_pressure": 124,
+    "breathing_rate": 19,
+    "temperature": 35,
+    "symptom": "Bụng đầy hơi; ăn không tiêu; buồn nôn",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+
+  {
+    "id": 92,
+    "patient_id": 2,
+    "create_at": "24/01/2022",
+    "follow_up_date": "15/07/2022",
+    "follow_up_time": "10:00",
+    "heart_rate": 84,
+    "blood_pressure": 136,
+    "breathing_rate": 17,
+    "temperature": 36,
+    "symptom": "Tức ngực; khó thở",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+
+  {
+    "id": 93,
+    "number": 1000,
+    "patient_id": 31,
+    "create_at": "22/01/2022",
+    "follow_up_date": "26/05/2022",
+    "follow_up_time": "08:00",
+    "heart_rate": 70,
+    "blood_pressure": 189,
+    "breathing_rate": 16,
+    "temperature": 39,
+    "symptom": "Sốt; đau đầu",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+  {
+    "id": 94,
+    "number": 1001,
+    "patient_id": 44,
+    "create_at": "30/03/2022",
+    "follow_up_date": "05/07/2022",
+    "follow_up_time": "14:50",
+    "heart_rate": 75,
+    "blood_pressure": 183,
+    "breathing_rate": 17,
+    "temperature": 42,
+    "symptom": "Đau lưng; mỏi gối",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 95,
+    "number": 1002,
+    "patient_id": 30,
+    "create_at": "18/01/2022",
+    "follow_up_date": "21/04/2022",
+    "follow_up_time": "11:50",
+    "heart_rate": 91,
+    "blood_pressure": 126,
+    "breathing_rate": 13,
+    "temperature": 41,
+    "symptom": "Bụng đầy hơi; ăn không tiêu; buồn nôn",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+
+  {
+    "id": 1005,
+    "patient_id": 37,
+    "create_at": "02/04/2022",
+    "follow_up_date": "25/06/2022",
+    "follow_up_time": "09:30",
+    "heart_rate": 96,
+    "blood_pressure": 162,
+    "breathing_rate": 11,
+    "temperature": 35,
+    "symptom": "Bụng đầy hơi; ăn không tiêu; buồn nôn",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+
+  {
+    "id": 1007,
+    "patient_id": 13,
+    "create_at": "06/04/2022",
+    "follow_up_date": "26/04/2022",
+    "follow_up_time": "16:50",
+    "heart_rate": 84,
+    "blood_pressure": 113,
+    "breathing_rate": 14,
+    "temperature": 43,
+    "symptom": "Tức ngực; khó thở",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+  {
+    "id": 1008,
+    "patient_id": 22,
+    "create_at": "10/04/2022",
+    "follow_up_date": "11/07/2022",
+    "follow_up_time": "11:30",
+    "heart_rate": 75,
+    "blood_pressure": 112,
+    "breathing_rate": 15,
+    "temperature": 39,
+    "symptom": "Bụng đầy hơi; ăn không tiêu; buồn nôn",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+  {
+    "id": 1010,
+    "patient_id": 49,
+    "create_at": "17/03/2022",
+    "follow_up_date": "16/07/2022",
+    "follow_up_time": "13:10",
+    "heart_rate": 70,
+    "blood_pressure": 125,
+    "breathing_rate": 20,
+    "temperature": 35,
+    "symptom": "Đau đầu; chóng mặt",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+  {
+    "id": 1011,
+    "patient_id": 40,
+    "create_at": "22/02/2022",
+    "follow_up_date": "23/06/2022",
+    "follow_up_time": "08:40",
+    "heart_rate": 73,
+    "blood_pressure": 105,
+    "breathing_rate": 13,
+    "temperature": 40,
+    "symptom": "Ho; đau họng; sổ mũi",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+
+  {
+    "id": 1014,
+    "patient_id": 41,
+    "create_at": "19/01/2022",
+    "follow_up_date": "12/07/2022",
+    "follow_up_time": "09:10",
+    "heart_rate": 82,
+    "blood_pressure": 126,
+    "breathing_rate": 17,
+    "temperature": 42,
+    "symptom": "Đau lưng; mỏi gối",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+  {
+    "id": 1016,
+    "patient_id": 27,
+    "create_at": "15/02/2022",
+    "follow_up_date": "05/07/2022",
+    "follow_up_time": "08:20",
+    "heart_rate": 75,
+    "blood_pressure": 202,
+    "breathing_rate": 15,
+    "temperature": 36,
+    "symptom": "Sốt; đau đầu",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 1017,
+    "patient_id": 23,
+    "create_at": "02/03/2022",
+    "follow_up_date": "19/06/2022",
+    "follow_up_time": "11:00",
+    "heart_rate": 90,
+    "blood_pressure": 209,
+    "breathing_rate": 12,
+    "temperature": 38,
+    "symptom": "Ho; đau họng; sổ mũi",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+  {
+    "id": 1018,
+    "patient_id": 23,
+    "create_at": "24/03/2022",
+    "follow_up_date": "26/05/2022",
+    "follow_up_time": "16:00",
+    "heart_rate": 93,
+    "blood_pressure": 121,
+    "breathing_rate": 16,
+    "temperature": 40,
+    "symptom": "Sốt; đau đầu",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+
+  {
+    "id": 1021,
+    "patient_id": 14,
+    "create_at": "13/03/2022",
+    "follow_up_date": "10/05/2022",
+    "follow_up_time": "07:50",
+    "heart_rate": 77,
+    "blood_pressure": 237,
+    "breathing_rate": 17,
+    "temperature": 36,
+    "symptom": "Ho; đau họng; sổ mũi",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+  {
+    "id": 1022,
+    "patient_id": 24,
+    "create_at": "13/02/2022",
+    "follow_up_date": "06/07/2022",
+    "follow_up_time": "07:40",
+    "heart_rate": 85,
+    "blood_pressure": 137,
+    "breathing_rate": 16,
+    "temperature": 43,
+    "symptom": "Ho; đau họng; sổ mũi",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+
+  {
+    "id": 1024,
+    "patient_id": 44,
+    "create_at": "03/01/2022",
+    "follow_up_date": "27/06/2022",
+    "follow_up_time": "14:20",
+    "heart_rate": 92,
+    "blood_pressure": 205,
+    "breathing_rate": 16,
+    "temperature": 37,
+    "symptom": "Đau lưng; mỏi gối",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+
+  {
+    "id": 1026,
+    "patient_id": 4,
+    "create_at": "05/02/2022",
+    "follow_up_date": "15/07/2022",
+    "follow_up_time": "14:50",
+    "heart_rate": 93,
+    "blood_pressure": 209,
+    "breathing_rate": 13,
+    "temperature": 35,
+    "symptom": "Ho; đau họng; sổ mũi",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 1027,
+    "patient_id": 25,
+    "create_at": "25/03/2022",
+    "follow_up_date": "16/07/2022",
+    "follow_up_time": "16:00",
+    "heart_rate": 98,
+    "blood_pressure": 180,
+    "breathing_rate": 10,
+    "temperature": 40,
+    "symptom": "Đau đầu; chóng mặt",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 1028,
+    "patient_id": 12,
+    "create_at": "16/02/2022",
+    "follow_up_date": "18/06/2022",
+    "follow_up_time": "15:10",
+    "heart_rate": 84,
+    "blood_pressure": 243,
+    "breathing_rate": 11,
+    "temperature": 35,
+    "symptom": "Đau đầu; chóng mặt",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 1029,
+    "patient_id": 2,
+    "create_at": "10/01/2022",
+    "follow_up_date": "23/05/2022",
+    "follow_up_time": "12:40",
+    "heart_rate": 87,
+    "blood_pressure": 235,
+    "breathing_rate": 15,
+    "temperature": 41,
+    "symptom": "Tức ngực; khó thở",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+
+  {
+    "id": 1034,
+    "patient_id": 15,
+    "create_at": "16/03/2022",
+    "follow_up_date": "22/06/2022",
+    "follow_up_time": "16:30",
+    "heart_rate": 83,
+    "blood_pressure": 105,
+    "breathing_rate": 17,
+    "temperature": 40,
+    "symptom": "Đau lưng; mỏi gối",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+
+  {
+    "id": 1039,
+    "patient_id": 22,
+    "create_at": "08/04/2022",
+    "follow_up_date": "24/04/2022",
+    "follow_up_time": "15:10",
+    "heart_rate": 89,
+    "blood_pressure": 118,
+    "breathing_rate": 12,
+    "temperature": 42,
+    "symptom": "Sốt; đau đầu",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 1040,
+    "patient_id": 18,
+    "create_at": "16/03/2022",
+    "follow_up_date": "16/06/2022",
+    "follow_up_time": "11:50",
+    "heart_rate": 80,
+    "blood_pressure": 137,
+    "breathing_rate": 19,
+    "temperature": 45,
+    "symptom": "Đau đầu; chóng mặt",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+  {
+    "id": 1041,
+    "patient_id": 20,
+    "create_at": "24/03/2022",
+    "follow_up_date": "13/05/2022",
+    "follow_up_time": "08:30",
+    "heart_rate": 88,
+    "blood_pressure": 198,
+    "breathing_rate": 10,
+    "temperature": 35,
+    "symptom": "Tức ngực; khó thở",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+
+  {
+    "id": 1044,
+    "patient_id": 46,
+    "create_at": "25/01/2022",
+    "follow_up_date": "24/04/2022",
+    "follow_up_time": "07:00",
+    "heart_rate": 72,
+    "blood_pressure": 101,
+    "breathing_rate": 17,
+    "temperature": 42,
+    "symptom": "Sốt; đau đầu",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+  {
+    "id": 1045,
+    "patient_id": 41,
+    "create_at": "11/02/2022",
+    "follow_up_date": "28/05/2022",
+    "follow_up_time": "12:00",
+    "heart_rate": 85,
+    "blood_pressure": 223,
+    "breathing_rate": 15,
+    "temperature": 43,
+    "symptom": "Tức ngực; khó thở",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+  {
+    "id": 1046,
+    "patient_id": 29,
+    "create_at": "02/01/2022",
+    "follow_up_date": "15/06/2022",
+    "follow_up_time": "12:00",
+    "heart_rate": 71,
+    "blood_pressure": 186,
+    "breathing_rate": 10,
+    "temperature": 35,
+    "symptom": "Đau đầu; chóng mặt",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 1047,
+    "patient_id": 24,
+    "create_at": "27/02/2022",
+    "follow_up_date": "07/06/2022",
+    "follow_up_time": "07:00",
+    "heart_rate": 84,
+    "blood_pressure": 169,
+    "breathing_rate": 19,
+    "temperature": 41,
+    "symptom": "Bụng đầy hơi; ăn không tiêu; buồn nôn",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 1
+  },
+  {
+    "id": 1048,
+    "patient_id": 29,
+    "create_at": "09/01/2022",
+    "follow_up_date": "15/07/2022",
+    "follow_up_time": "12:10",
+    "heart_rate": 71,
+    "blood_pressure": 117,
+    "breathing_rate": 14,
+    "temperature": 40,
+    "symptom": "Sốt; đau đầu",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  },
+
+  {
+    "id": 1050,
+    "patient_id": 14,
+    "create_at": "06/03/2022",
+    "follow_up_date": "15/07/2022",
+    "follow_up_time": "14:10",
+    "heart_rate": 93,
+    "blood_pressure": 193,
+    "breathing_rate": 20,
+    "temperature": 43,
+    "symptom": "Sốt; đau đầu",
+    "diagnosis": "HIV giai đoạn cuối",
+    "services": [1, 2, 3],
+    "prescription": [
+      {
+        "number": 10,
+        "name": "Panadol",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống sau khi ăn"
+      },
+      {
+        "number": 10,
+        "name": "Maloch",
+        "dosage": {
+          "morning": 1,
+          "afternoon": 1,
+          "Evening": 1
+        },
+        "advice": "Uống trước khi ăn 30p"
+      }
+    ],
+    "total_fee": 150000,
+    "paying_customer": 200000,
+    "change": 50000,
+    "status": 1,
+    "type": 0
+  }
+]

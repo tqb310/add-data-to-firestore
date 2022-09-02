@@ -1,0 +1,14 @@
+{
+  "name": "json-to-firestore",
+  "version": "1.0.0",
+  "description": "Upload file json to firestore",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TQB",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^9.6.11"
+  }
+}
